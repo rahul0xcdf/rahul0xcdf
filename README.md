@@ -9,6 +9,10 @@
 </div>
 
 ###
+<p align="left">👨‍💻 AIML Engineering student at PES University, passionate about cybersecurity and machine learning.</p>
+###
+
+###
 
 <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxhMHR2bHpreXJiaGQwbXg0ZDFkbTJsb3Bkcnprbmp1aWk5NTZyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fRwPZtbWkkX6/giphy.gif" />
 ###
@@ -64,8 +68,12 @@
 
 ###
 
-<br clear="both">
+###
 
-<img src="https://raw.githubusercontent.com/rahul0xcdf/rahul0xcdf/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rahul0xcdf/count.svg?"  />
+</div>
+
+###
 
 ###
