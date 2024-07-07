@@ -2,7 +2,6 @@
 
 ###
 <p align="left">👨‍💻 AIML Engineering student at PES University, passionate about cybersecurity and machine learning.</p>
-###
 
 
 ###
