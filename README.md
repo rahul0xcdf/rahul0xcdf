@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26tP7axeTIW5OnyP6/giphy.gif" width="120" />
-  
-  <h1>Hello Friend. I'm Rahul R</h1>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+  <h1>Hey, I'm Rahul R <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
   
   <h3>DevOps Engineer | Security Researcher | Linux Whisperer</h3>
 
   <p>
-    <i>"Control is an illusion. I just automate the chaos."</i>
+    <i>"I break things early so they don't explode at 3 AM on a Friday."</i>
   </p>
 
   <p>
@@ -26,9 +25,9 @@
 
 ---
 
-### 👾 /whoami
+### 🧐 About Me
 
-I’m a **Computer Science Engineer** who realized that manually deploying code is a vulnerability. So, I pivoted to **DevOps**.
+I’m a **Computer Science Engineer** who realized that manually deploying code is a violation of human rights. So, I pivoted to **DevOps**.
 
 I sit at the chaotic intersection of **Machine Learning** and **Infrastructure**. I build AI agents to automate my own job, and I study Cybersecurity to ensure my agents don't get hacked by other agents.
 
@@ -50,7 +49,7 @@ I sit at the chaotic intersection of **Machine Learning** and **Infrastructure**
 
 ---
 
-### 📊 Network Traffic (Stats)
+### 📊 The Data (Because numbers look cool)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul0xcdf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Rahul's Stats" />
@@ -65,7 +64,7 @@ I sit at the chaotic intersection of **Machine Learning** and **Infrastructure**
 
 ---
 
-### ⚡ Subroutines (What I'm doing)
+### ⚡ What I'm Actually Doing
 - **Building:** Scalable backend systems that survive the "Hug of Death."
 - **Securing:** Hardening CI/CD pipelines because `admin:admin` is not a valid credential policy.
 - **Learning:** How to make AI useful in production, not just in Jupyter Notebooks.
@@ -73,5 +72,5 @@ I sit at the chaotic intersection of **Machine Learning** and **Infrastructure**
 ---
 
 <div align="center">
-  <p><i>Lets connect. If you send me a recruiter email for a Java Swing developer role, it will be routed to `/dev/null`.</i></p>
+  <p><i>Lets connect! If you send me a recruiter email for a Java Swing developer role, my spam filter will eat it.</i></p>
 </div>
