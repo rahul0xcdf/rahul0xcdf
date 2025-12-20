@@ -47,6 +47,13 @@ I sit at the chaotic intersection of **Machine Learning** and **Infrastructure**
 
 </div>
 
+<div align="center">
+  <a href="https://tryhackme.com/p/Rahulz" target="_blank">
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=85523" alt="TryHackMe Badge" />
+  </a>
+</div>
+
+
 ---
 
 ### 📊 The Data (Because numbers look cool)
