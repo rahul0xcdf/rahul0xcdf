@@ -1,9 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=Rahul%20R&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=building%20cool%20stuff%20with%20AI%20%7C%20breaking%20it%20%7C%20shipping%20it%20anyway&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=160&section=header" width="100%" />
 
 <div align="center">
 
 <a href="https://github.com/rahul0xcdf">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&lines=exploring+AI+because+the+future+refuses+to+wait;i+build+agents+that+build+things;LLMs+%2B+infra+%2B+a+concerning+amount+of+caffeine;if+it+has+an+API%2C+i+will+automate+it" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=60&duration=2000&pause=500&color=1F6FEB&center=true&vCenter=true&width=700&height=100&lines=0xcdf;Rahul+R" alt="0xcdf" />
+</a>
+
+<a href="https://github.com/rahul0xcdf">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2000&pause=500&color=8957E5&center=true&vCenter=true&width=700&lines=exploring+AI+because+the+future+refuses+to+wait;i+build+agents+that+build+things;LLMs+%2B+infra+%2B+too+much+caffeine;if+it+has+an+API%2C+i+will+automate+it" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -20,31 +24,34 @@
 ## `~/whoami`
 
 ```python
-class Rahul:
+class _0xcdf:
+    """Rahul R — goes by the handle more than the name."""
+
     def __init__(self):
-        self.role     = "AI Engineer in progress"
-        self.stack    = ["LLMs", "agents", "RAG", "the infra under all of it"]
-        self.currently = "teaching machines to do my job (respectfully)"
-        self.fuel     = "curiosity + coffee"
+        self.role      = "AI engineer in progress"
+        self.obsession = ["LLMs", "agents", "RAG", "the infra holding it up"]
+        self.mode      = "ship it, watch it break, learn why"
+        self.fuel      = "curiosity + caffeine"
 
     def why_ai(self) -> str:
-        return "because it's the first tech that argues back"
+        return "it's the first tech that argues back"
 
-    def daily(self):
-        while True:
-            self.build("something cool")
-            self.break_it()          # on purpose
-            self.learn(from_=self.wreckage)
+    def loop(self):
+        while self.curious:          # always true so far
+            idea = self.explore()
+            self.build(idea)
+            self.break_it()          # deliberately, before prod does
+            self.learn(self.wreckage)
 ```
 
-I'm a **Computer Science Engineer** who got pulled into AI and never came back.
-What started as *"let me try this model out"* turned into building agents, wiring
-up retrieval pipelines, and figuring out what actually survives outside a notebook.
+I got pulled into AI and never found a reason to leave. What started as
+*"let me poke at this model"* turned into building agents, wiring retrieval
+pipelines, and learning the hard way which demos survive contact with real users.
 
-- **Exploring:** LLMs, agentic workflows, RAG, and everything that makes models useful instead of impressive
-- **Building:** small, sharp tools — the kind you actually keep using after week one
-- **Grounded in:** Linux, DevOps, and security, so the cool stuff also stays up and doesn't leak
-- **Belief:** the best way to learn a system is to build it badly first
+- **Exploring** — LLMs, agentic workflows, RAG, and whatever makes models *useful* rather than merely impressive
+- **Building** — small, sharp tools; the kind still open in a tab three weeks later
+- **Backed by** — Linux, DevOps, and security, so the cool stuff also stays up and doesn't leak
+- **Convinced that** — the fastest way to understand a system is to build it badly first
 
 <br/>
 
@@ -92,19 +99,19 @@ up retrieval pipelines, and figuring out what actually survives outside a notebo
 <td width="33%" valign="top">
 
 ### Building
-Agents that chain tools together and don't fall apart after step three.
+Agents that chain tools together and still make sense by step seven.
 
 </td>
 <td width="33%" valign="top">
 
 ### Learning
-How to get LLMs from *"nice demo"* to *"actually in production"* — evals, latency, cost, guardrails.
+Dragging LLMs from *"nice demo"* to *"actually in production"* — evals, latency, cost, guardrails.
 
 </td>
 <td width="33%" valign="top">
 
 ### Securing
-Hardening pipelines and prompts alike, because `admin:admin` and *"ignore previous instructions"* are the same bug.
+Hardening pipelines and prompts alike, because `admin:admin` and *"ignore previous instructions"* are the same bug wearing different clothes.
 
 </td>
 </tr>
@@ -115,10 +122,10 @@ Hardening pipelines and prompts alike, because `admin:admin` and *"ignore previo
 
 <br/>
 
-- Multi-agent orchestration — how far can you push it before it becomes a group chat that accomplishes nothing
-- Retrieval that actually retrieves the right chunk, not the confidently wrong one
-- Running local models and seeing what my GPU thinks about that
-- Evals, because "it felt better" is not a metric
+- Multi-agent orchestration — how far it scales before becoming a group chat that accomplishes nothing
+- Retrieval that returns the *right* chunk, not the confidently wrong one
+- Running models locally, and hearing my GPU's opinion on that
+- Evals, because "it felt better this time" is not a metric
 - Automating my own workflow until there's nothing left to automate
 
 </details>
@@ -162,7 +169,7 @@ Hardening pipelines and prompts alike, because `admin:admin` and *"ignore previo
 
 ### Let's build something
 
-Open to conversations about AI, agents, infra, or why your pipeline broke.
+Always up for a conversation about AI, agents, infra, or why your pipeline broke at 2 AM.
 
 <i>If you send me a recruiter email for a Java Swing developer role, my spam filter will eat it.</i>
 
